@@ -1,0 +1,10 @@
+[package]
+name = "actix-ws"
+version = "0.1.0"
+authors = ["Lakin Wecker <lakin@structuredabstraction.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "*"
+actix-web = "*"
+actix-web-actors = "*"
